@@ -1,0 +1,13 @@
+---
+title: "Connecting Rstudio and GitHub"
+output: html_notebook
+---
+
+
+First, I'll set up my workspace
+```{r}
+rm(list = ls())
+library(here)
+library(tidyverse)
+```
+
