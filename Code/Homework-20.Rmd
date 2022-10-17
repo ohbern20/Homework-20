@@ -9,5 +9,6 @@ First, I'll set up my workspace
 rm(list = ls())
 library(here)
 library(tidyverse)
+library(ggplot2)
 ```
 
